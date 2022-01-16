@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.skyshaddermain.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "E:\\YESICA\\Unity 2019.2.10f\\Sky-Shadder-main\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Sky-Shadder-main [Testing]"
+        }
+      }
+    }
+  ]
+}
